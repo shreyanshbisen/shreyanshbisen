@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shreyansh,<br>An IT student skilled in Java, C, HTML/CSS and MySQL. <br>I’m passionate about software development and love building practical projects while learning new technologies.
+Hi, I’m Shreyansh,<br>An IT student skilled in Java, C, HTML,CSS & JavaScript and MySQL. <br>I’m passionate about software development and love building practical projects while learning new technologies.
 
 
 ## 🌐 Socials:
